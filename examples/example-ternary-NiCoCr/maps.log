@@ -1,0 +1,5 @@
+Maps version 3.04
+The internal database of structures extends up to 5 atoms/unit cell, see predstr.out
+Among structures of known energy, true and predicted ground states agree
+New ground states with at most 5 atoms/unit cell predicted , see predstr.out
+Crossvalidation score: 0.0196433

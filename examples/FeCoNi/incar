@@ -1,0 +1,12 @@
+struct,NUMofComponent,bin_start,bin_end,gamma_start, gamma_end, show_step_detail,sro,restart (7 )
+2
+3
+-1.075
+0.115 
+1.0
+0.00001
+1
+1
+0
+40
+500

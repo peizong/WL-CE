@@ -1,0 +1,8 @@
+ModuleCmd_Switch.c(179):ERROR:152: Module 'PrgEnv-pgi' is currently not loaded
+Sat Feb 18 00:15:11 EST 2017
+/ccs/home/zp7/atat/atat/src/wlce: /opt/gcc/4.8.1/snos/lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by /ccs/home/zp7/atat/atat/src/wlce)
+
+real	0m0.006s
+user	0m0.000s
+sys	0m0.000s
+Sat Feb 18 00:15:11 EST 2017
